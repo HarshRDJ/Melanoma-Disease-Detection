@@ -45,7 +45,7 @@ This project aims to classify skin cancer using images of skin lesions. To achie
 * Dense Layer: A fully connected layer where each neuron receives input from all neurons in the previous layer. This is typically used for classification and decision-making.
 
 **Activation Functions:**
-ReLU (Rectified Linear Unit): A piecewise linear function that outputs the input directly if it is positive, and zero otherwise. ReLU is used in hidden layers to overcome the vanishing gradient problem, enabling faster learning and better model performance.
+* ReLU (Rectified Linear Unit): A piecewise linear function that outputs the input directly if it is positive, and zero otherwise. ReLU is used in hidden layers to overcome the vanishing gradient problem, enabling faster learning and better model performance.
 
 * Softmax: Applied in the output layer, the softmax function generates a probability distribution for multi-class classification, with output values ranging between 0 and 1. The sum of all output probabilities equals 1, making it ideal for classification tasks with multiple categories.
 
