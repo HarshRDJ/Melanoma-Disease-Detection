@@ -54,7 +54,7 @@ This project aims to classify skin cancer using images of skin lesions. To achie
 <img width="367" alt="image" src="https://github.com/user-attachments/assets/c81267c0-79e2-42db-99a2-3fae02460f4c">
 
 
-* Model Evaluation
+# Model Evaluation
 
 <img width="667" alt="image" src="https://github.com/user-attachments/assets/ae99575e-79b4-40ad-b0be-6c8ebb92a978">
 
